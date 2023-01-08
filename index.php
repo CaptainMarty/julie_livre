@@ -101,7 +101,7 @@
             </div>
         </div>
     </section>
-    <a href="#" id="back-to-top">Retour en haut</a>
+    <a href="#" id="back-to-top">Retour en haut !</a>
     <!-- section Personnage END -->
 
     <!-- section Qui suis-je -->
